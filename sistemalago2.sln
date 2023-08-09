@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sistemalago2", "sistemalago2\sistemalago2.csproj", "{56E0CDF5-5C8D-44B1-B726-156BEA26FA0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56E0CDF5-5C8D-44B1-B726-156BEA26FA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E0CDF5-5C8D-44B1-B726-156BEA26FA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E0CDF5-5C8D-44B1-B726-156BEA26FA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E0CDF5-5C8D-44B1-B726-156BEA26FA0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {743DEA67-4747-4C07-A598-A6059A7DD457}
+	EndGlobalSection
+EndGlobal
